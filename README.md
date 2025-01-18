@@ -38,7 +38,7 @@ Estou sempre à procura de novas ideias, projetos interessantes e oportunidades 
 
 📬 **Entre em contato comigo:**
 - Email: mxmitsuya@gmail.com
-- LinkedIn: [Max Mitsuya](www.linkedin.com/in/max-mitsuya-9095a21ab)
+- LinkedIn: [Max Mitsuya](https://www.linkedin.com/in/max-mitsuya-9095a21ab)
 - GitHub: Você já está aqui! 😄
 
 ---

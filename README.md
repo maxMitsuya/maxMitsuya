@@ -35,6 +35,7 @@ Profissional em transição para Ciência de Dados com sólida base analítica a
 - Desenvolvi e comparei modelos preditivos (Regressão Logística vs Random Forest) para identificar usuários com alta probabilidade de cancelamento
 - Implementei métricas robustas de avaliação (Acurácia, Precisão, Recall, F1-Score, ROC-AUC)
 - Realizei otimização de hiperparâmetros utilizando GridSearchCV, melhorando a performance do modelo
+
 🔗 **[Acesse aqui](https://github.com/maxMitsuya/previsao_churn)**
 
 ### [Categorização de Empresas Brasileiras - Good Places to Work] 
@@ -44,13 +45,14 @@ Profissional em transição para Ciência de Dados com sólida base analítica a
 - Desenvolvi um pipeline completo de coleta e processamento de dados utilizando técnicas de web scraping (BeautifulSoup) e PySpark
 - Implementei um sistema automatizado para extrair, tratar e classificar empresas brasileiras segundo seu CNAE-Fiscal
 - Criei uma base de dados estruturada contendo todas as empresas classificadas, permitindo análises comparativas por setor e região
+
 🔗 **[Acesse aqui](https://github.com/maxMitsuya/classificacao_empresas)**
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=maxMitsuya&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=maxMitsuya&layout=compact&theme=radical)
 
 ## 📩 Contato
 
@@ -58,6 +60,7 @@ Profissional em transição para Ciência de Dados com sólida base analítica a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mxmitsuya@gmail.com)
 
 💡 **Open to work** para oportunidades em Ciência/Análise de Dados
+
 ✨ "Os dados contam histórias fascinantes; cabe a nós ouvi-las e traduzi-las."
 
 Seja bem-vindo(a) e explore à vontade!

@@ -32,7 +32,6 @@ Atualmente focado em desenvolver soluções baseadas em dados através de:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=maxMitsuya&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=maxMitsuya&layout=compact&theme=radical)
 
 ## 📩 Contato
 

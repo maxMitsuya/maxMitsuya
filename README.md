@@ -4,7 +4,8 @@
 
 ## 📌 Sobre Mim
 
-Profissional em transição para Ciência de Dados com sólida base analítica adquirida em [sua área anterior]. Atualmente focado em desenvolver soluções baseadas em dados através de:
+Profissional em transição para Ciência de Dados com sólida base analítica adquirida como professor da Educação Técnica e Profissinal. 
+Atualmente focado em desenvolver soluções baseadas em dados através de:
 
 - 🐍 Python para análise e modelagem
 - 📊 SQL para manipulação de bancos de dados
@@ -26,27 +27,6 @@ Profissional em transição para Ciência de Dados com sólida base analítica a
 - Processamento de Dados em Larga Escala
 - Storytelling com Dados
 
-## 📂 Projetos Destacados
-
-### [Modelo de Previsão de Churn para Plataforma de Streaming]
-▶ **Objetivo**: [Desenvolver modelos de machine learning para prever usuários com chances de churn do serviço de streaming]  
-🛠 **Tecnologias**: Python, Pandas, Scikit-learn  
-📈 **Resultados**: 
-- Desenvolvi e comparei modelos preditivos (Regressão Logística vs Random Forest) para identificar usuários com alta probabilidade de cancelamento
-- Implementei métricas robustas de avaliação (Acurácia, Precisão, Recall, F1-Score, ROC-AUC)
-- Realizei otimização de hiperparâmetros utilizando GridSearchCV, melhorando a performance do modelo
-
-🔗 **[Acesse aqui](https://github.com/maxMitsuya/previsao_churn)**
-
-### [Categorização de Empresas Brasileiras - Good Places to Work] 
-▶ **Objetivo**: [Projeto de ETL com big data]  
-🛠 **Tecnologias**: Python, BeautifulSoup, PySpark 
-📊 **Resultados**: 
-- Desenvolvi um pipeline completo de coleta e processamento de dados utilizando técnicas de web scraping (BeautifulSoup) e PySpark
-- Implementei um sistema automatizado para extrair, tratar e classificar empresas brasileiras segundo seu CNAE-Fiscal
-- Criei uma base de dados estruturada contendo todas as empresas classificadas, permitindo análises comparativas por setor e região
-
-🔗 **[Acesse aqui](https://github.com/maxMitsuya/classificacao_empresas)**
 
 ## 📊 GitHub Stats
 
